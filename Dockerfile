@@ -16,4 +16,4 @@ WORKDIR /app/dist/bundle
 
 CMD ["node", "main.js"]
 
-EXPOSE 3000
+EXPOSE 3366

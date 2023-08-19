@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  markboard:
+    build: .
+    ports:
+      - "3366:3366"
+

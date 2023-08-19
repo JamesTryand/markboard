@@ -6,7 +6,7 @@ main()
 async function main() {
   const args = parseArguments()
   const envs = parseEnvironmentVariables()
-  const port = args.port ?? 3000
+  const port = args.port ?? 3366
 
   sh(`export $(echo '${envs}' | xargs) && meteor --port ${port} run`)
 }
