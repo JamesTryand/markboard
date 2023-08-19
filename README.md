@@ -41,7 +41,7 @@ Deploying markboard with [DigitalOcean](digitalocean.com) is the recommended way
 Click the folloying button to get your first markboard instance running in minutes:
 
 <p>
-  <a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/markboard/markboard/tree/main" target="_blank">
+  <a href="https://cloud.digitalocean.com/apps/new?repo=https://github.com/JamesTryand/markboard/tree/main" target="_blank">
   <img src="https://www.deploytodo.com/do-btn-blue.svg" alt="Deploy to DO">
   </a>
 </p>
