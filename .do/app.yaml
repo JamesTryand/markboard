@@ -7,7 +7,7 @@ services:
   - name: markboard
     github:
       branch: main
-      repo: markboard/markboard
+      repo: JamesTryand/markboard
       deploy_on_push: true
     dockerfile_path: Dockerfile
     http_port: 3366
